@@ -6,19 +6,7 @@ A digital image is a 2D matrix of numbers representing intensity or color inform
 
 An image is a function:
 
-𝑓
-(
-𝑥
-,
-𝑦
-)
-=
-intensity at pixel position 
-(
-𝑥
-,
-𝑦
-)
+𝑓(𝑥,𝑦)=intensity at pixel position (𝑥,𝑦)
 f(x,y)=intensity at pixel position (x,y)
 
 x → horizontal coordinate
